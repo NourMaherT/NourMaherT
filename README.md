@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noor Taha</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **NodeJs and ReactJs**
+- 🌱 I’m in to **NodeJs and NestJs**
 
 - 👯 I’m looking to collaborate on **exciting projects that can level up my NodeJs experience**
 
